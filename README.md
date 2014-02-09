@@ -1,7 +1,7 @@
 kenyapp
 =======
 
-Kenyapp - Short for Kenya App, is a simple android application that helps people learn more about Kenya and eliminate all the assumptions flooding their minds.
+Kenyapp - Short for Kenya App(Not very intuitive obviously), is a simple android application that helps people learn more about Kenya and eliminate all the assumptions flooding their minds.
 
 Functionality:
 
@@ -21,9 +21,10 @@ Everything should remain the same. You might have to adjust the versions of the 
 NOTE:
 You can change the look (UI) by adjusting the layouts. You are free to do that!
 
-Questions:
+In case of questions:
 
 If you have any questions, you can contact me via elisha.java@gmail.com
+
 Enjoy.
 
 
