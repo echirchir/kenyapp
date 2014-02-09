@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Maps API</string>
+    <string name="kenya_main">HOW MUCH DO YOU KNOW ABOUT KENYA?</string>
+    <string-array name="provinces">
+        <item>CENTRAL</item>
+        <item>R VALLEY</item>
+        <item>NAIROBI</item>
+        <item>COAST</item>
+        <item>WESTERN</item>
+        <item>NYANZA</item>
+        <item>EASTERN</item>
+        <item>N EASTERN</item>
+    </string-array>
+
+    <string name="central_details">
+
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+            Lorem Ipsum has been the industry standard dummy text ever since the.
+            Lorem Ipsum has been the industry standard dummy text ever since the.
+
+        </p>
+    </string>
+    <string name="rvalley_details">
+
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+            Lorem Ipsum has been the industry\'s standard dummy text ever since the.
+            Lorem Ipsum has been the industry standard dummy text ever since then.
+
+        </p>
+    </string>
+    <string name="nairobi_details">
+
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+            Lorem Ipsum has been the industry\'s standard dummy text ever since the.
+            Lorem Ipsum has been the industry standard dummy text ever since the.
+
+        </p>
+
+    </string>
+    <string name="coast_details">
+
+    </string>
+    <string name="western_details">
+
+    </string>
+    <string name="nyanza_details">
+
+    </string>
+    <string name="eastern_details">
+
+    </string>
+    <string name="neastern_details">
+
+    </string>
+</resources>
